@@ -1,2 +1,11 @@
-# pharmaceutical-quality-control-dashboard
-Power BI dashboard for pharmaceutical quality control, batch analysis, OOS trends, and analyst performance.
+Project Name
+│
+├── README.md
+├── Dashboard/
+│   └── dashboard screenshots
+│
+├── Data/
+│   └── dataset (if appropriate)
+│
+└── Files/
+    └── supporting files
