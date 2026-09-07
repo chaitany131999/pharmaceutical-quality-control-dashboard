@@ -37,7 +37,10 @@ The project demonstrates how Power BI can be used to monitor quality metrics, id
 
 ## 📷 Dashboard
 
-Add your dashboard screenshots here.
+<img width="878" height="537" alt="Image" src="https://github.com/user-attachments/assets/517dddaf-5c72-4b2e-9ae5-225bc6b2b2ec" />
+<img width="878" height="543" alt="Image" src="https://github.com/user-attachments/assets/905d63e7-202e-40db-bed8-111812e4c540" />
+<img width="879" height="537" alt="Image" src="https://github.com/user-attachments/assets/5394d1a9-29a0-4f0d-a9e0-532fe5a4b7e6" />
+<img width="881" height="537" alt="Image" src="https://github.com/user-attachments/assets/494ae4cd-bc1c-42ec-906c-bbc61c6bb878" />
 
 ## 📈 Key Skills Demonstrated
 
